@@ -1,0 +1,10 @@
+C:\Users\29375347\Desktop\Новая папка\MathingGameAmbrosenko1\MathingGameAmbrosenko1\bin\Debug\MathingGameAmbrosenko1.exe.config
+C:\Users\29375347\Desktop\Новая папка\MathingGameAmbrosenko1\MathingGameAmbrosenko1\bin\Debug\MathingGameAmbrosenko1.exe
+C:\Users\29375347\Desktop\Новая папка\MathingGameAmbrosenko1\MathingGameAmbrosenko1\bin\Debug\MathingGameAmbrosenko1.pdb
+C:\Users\29375347\Desktop\Новая папка\MathingGameAmbrosenko1\MathingGameAmbrosenko1\obj\Debug\MathingGameAmbrosenko1.csproj.AssemblyReference.cache
+C:\Users\29375347\Desktop\Новая папка\MathingGameAmbrosenko1\MathingGameAmbrosenko1\obj\Debug\MathingGameAmbrosenko1.Form1.resources
+C:\Users\29375347\Desktop\Новая папка\MathingGameAmbrosenko1\MathingGameAmbrosenko1\obj\Debug\MathingGameAmbrosenko1.Properties.Resources.resources
+C:\Users\29375347\Desktop\Новая папка\MathingGameAmbrosenko1\MathingGameAmbrosenko1\obj\Debug\MathingGameAmbrosenko1.csproj.GenerateResource.cache
+C:\Users\29375347\Desktop\Новая папка\MathingGameAmbrosenko1\MathingGameAmbrosenko1\obj\Debug\MathingGameAmbrosenko1.csproj.CoreCompileInputs.cache
+C:\Users\29375347\Desktop\Новая папка\MathingGameAmbrosenko1\MathingGameAmbrosenko1\obj\Debug\MathingGameAmbrosenko1.exe
+C:\Users\29375347\Desktop\Новая папка\MathingGameAmbrosenko1\MathingGameAmbrosenko1\obj\Debug\MathingGameAmbrosenko1.pdb
